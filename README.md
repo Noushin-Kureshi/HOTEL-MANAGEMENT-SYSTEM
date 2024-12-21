@@ -20,8 +20,8 @@ git clone https://github.com/Noushin-Kureshi/HOTEL-MANAGEMENT-SYSTEM
 
 2.Run the program:
 
-cd Hotel-Management-System
+cd HOTEL-MANAGEMENT-SYSTEM
 
-HotelManagementSystem.py
+HOTELMANAGEMENTSYSTEM.py
 
 Follow the on-screen prompts to input customer data, calculate room rent, purchase food, and view the total cost.
