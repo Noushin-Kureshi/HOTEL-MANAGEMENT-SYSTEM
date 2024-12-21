@@ -16,7 +16,7 @@ How to Use?
 
 1.Clone the repository:
 
-git clone https://github.com/Noushin-Kureshi/HOTEL-MANAGEMENT-SYSTEM.git
+git clone https://github.com/Noushin-Kureshi/HOTEL-MANAGEMENT-SYSTEM
 
 2.Run the program:
 
